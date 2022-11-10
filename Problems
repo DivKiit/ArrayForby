@@ -1,0 +1,48 @@
+1. Find out reverse of a number and check whether the number is a palindrome or 
+not.
+
+2. Twenty numbers are entered from the keyboard into an array. WAP to find out 
+how many of them are positive how many are negative, how many are even and 
+how many odd.
+
+3. WAP to copy the content of one array into another in the reverse order.
+
+4. Enter 25 numbers into an array. The number to be searched to be entered by the 
+user. WAP to find the number to be searched is present in the array and if it is 
+present, display the number of times it appears in the array.
+
+5. Write a program in C to print all unique elements in an array.
+Test Data :
+Input the number of elements to be stored in the array: 4
+Input 4 elements in the array :
+element - 0 : 3
+element - 1 : 2
+element - 2 : 2
+element - 3 : 5
+Expected Output :
+The unique elements found in the array are:
+3 5
+
+6. Display the following Patterns on screen…
+        $        $    
+       $$$      $$$
+      $$$$$    $$$$$
+     $$$$$$$  $$$$$$$
+    $$$$$$$$$$$$$$$$$$
+    
+7. Display the following Patterns on screen and the character should be the first 
+character of your name.…
+
+  AAAAAAAAAAAAAAAAAAAAA
+  AAAAAA AAAAAA AAAAAA
+  AAAAA  AAAAA  AAAAA
+  AAAA   AAAA   AAAA
+  AAA    AAA    AAA 
+  AA     AA     AA
+  A      A      A
+  
+
+8. Display the following Patterns on screen……
+
+9. Enter score of 10 cricket players and count number of century scored. Discard the 
+-ve score if you enter by mistake. (Use goto statement for this program).
